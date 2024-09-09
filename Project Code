@@ -5,8 +5,8 @@ import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.hardware.Servo;
 
-@TeleOp(name = "RoadCleanerRobot2 (Blocks to Java)")
-public class RoadCleanerRobot2 extends LinearOpMode {
+@TeleOp(name = "RoadCleanerRobot3 (Blocks to Java)")
+public class RoadCleanerRobot3 extends LinearOpMode {
 
   private DcMotor rightmotor;
   private DcMotor leftmotor;
@@ -55,10 +55,6 @@ public class RoadCleanerRobot2 extends LinearOpMode {
         }
         if (gamepad1.left_bumper) {
           robotarm1.setPosition(0.67);
-        }
-        if (false) {
-        }
-        if (false) {
         }
         if (gamepad1.dpad_right) {
           robotarm2.setPosition(0.62);
