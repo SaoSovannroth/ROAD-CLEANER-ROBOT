@@ -6,6 +6,7 @@
 # Video
 - [Video]()
 # Code
-- [Project code](https://github.com/SaoSovannroth/WRO_ROAD-CLEANER-ROBOT/blob/main/Project%20Code)
+- [Project Code (Java)](https://github.com/SaoSovannroth/WRO_ROAD-CLEANER-ROBOT/blob/main/Project%20Code)
+- [Project Block Code (pdf)](https://drive.google.com/file/d/1BjMLO94BjKCHE6sqgelKWZGByBcQfjPN/view?usp=sharing)
 # Picture
 - []()
